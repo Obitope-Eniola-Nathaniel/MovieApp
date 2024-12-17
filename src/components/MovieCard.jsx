@@ -1,6 +1,6 @@
 import "../css/MovieCard.css"
 
-function MovieCard({ movie }) {
+function MovieCArd({ movie }) {
     
     function onFavoriteClick() {
         alert("Clicked")
@@ -29,4 +29,4 @@ function MovieCard({ movie }) {
     );
 }
 
-export default MovieCard
+export default MovieCArd
